@@ -3,7 +3,7 @@
 Plugin Name: Vital Privacy Notice
 Plugin URI: https://vtldesign.com
 Description: Displays a privacy/cookie notice message to site users.
-Version: 1.1.0
+Version: 1.1.1
 Author: Vital
 Author URI: http://vtldesign.com
 Requires at least: 5.2
@@ -73,7 +73,7 @@ class VitalPrivacyNotice {
 
 		$this->plugin_path    = plugin_dir_path(__FILE__);
 		$this->plugin_url     = plugin_dir_url(__FILE__);
-		$this->plugin_version = '1.1.0';
+		$this->plugin_version = '1.1.1';
 		$this->option_prefix  = 'vtlprvmsg_';
 
 		require $this->plugin_path . 'admin.php';
