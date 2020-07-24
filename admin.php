@@ -105,7 +105,7 @@ class VitalPrivacyNotice_Admin {
 					'label'       => __('Message', 'vital-privacy-notice'),
 					'description' => '',
 					'type'        => 'wysiwyg',
-					'default'     => 'We use cookies to offer you a better browsing experience, personalise content and ads, to provide social media features and to analyse our traffic. To learn more, <a href="#">click here</a>. By continuing to use our site, you accept our use of cookies, <a href="#">Privacy Policy</a>, and <a href="#">Terms of Use</a>.',
+					'default'     => 'We use cookies to offer you a better browsing experience, personalize content, provide social media features, and to analyze our traffic. To learn more, <a href="#">click here</a>. By continuing to use our site, you accept our use of cookies, <a href="#">Privacy Policy</a>, and <a href="#">Terms of Use</a>.',
 				],
 				[
 					'id'          => 'cookie_notice_accept_text',

@@ -17,7 +17,7 @@
 		showLink: false,
 		static: false,
 		content: {
-			'message': 'We use cookies to offer you a better browsing experience, personalise content and ads, to provide social media features and to analyse our traffic. To learn more, <a href="#">click here</a>. By continuing to use our site, you accept our use of cookies, <a href="#">Privacy Policy</a>, and <a href="#">Terms of Use</a>.',
+			'message': 'We use cookies to offer you a better browsing experience, personalize content, provide social media features, and to analyze our traffic. To learn more, <a href="#">click here</a>. By continuing to use our site, you accept our use of cookies, <a href="#">Privacy Policy</a>, and <a href="#">Terms of Use</a>.',
 			'dismiss': 'Allow Cookies',
 			'deny': ''
 		},
